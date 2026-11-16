@@ -101,7 +101,7 @@ private key is not.
 
 ## Manual updates
 
-1. Open the official [Adham AI Releases page](https://github.com/adhamblabel31-boop/Adham-AI/releases).
+1. Open the official [Adham AI Releases page](https://github.com/666-ADHAM-999/Adham-AI/releases).
 2. Select the stable Ubuntu 26.04 LTS AMD64 release and download its `.deb`,
    `SHA256SUMS`, and `SHA256SUMS.sig` assets.
 3. Verify `SHA256SUMS.sig` using the independently verified trusted public
