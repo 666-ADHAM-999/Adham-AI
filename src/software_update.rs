@@ -10,7 +10,7 @@ use std::time::Duration;
 use tokio::io::AsyncWriteExt;
 use url::Url;
 
-const OFFICIAL_REPOSITORY_URL: &str = "https://github.com/adhamblabel31-boop/Adham-AI";
+const OFFICIAL_REPOSITORY_URL: &str = "https://github.com/666-ADHAM-999/Adham-AI";
 const API_BASE_URL: &str = "https://api.github.com";
 const MAX_RELEASES: usize = 100;
 const MAX_RELEASES_RESPONSE_BYTES: usize = 8 * 1024 * 1024;
@@ -1552,7 +1552,7 @@ mod tests {
         let repository = configured_repository().expect("configured repository");
         assert_eq!(
             repository.releases_page_url(),
-            "https://github.com/adhamblabel31-boop/Adham-AI/releases"
+            "https://github.com/666-ADHAM-999/Adham-AI/releases"
         );
     }
 
